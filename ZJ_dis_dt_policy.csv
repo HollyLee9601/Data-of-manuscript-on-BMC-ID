@@ -1,0 +1,97 @@
+"","diseases","Implement","level","dt"
+"1","HFMD","No","policy1",1.40697997775306
+"2","HFMD","No","policy2",1.45897489981017
+"3","HFMD","No","policy3",0.959699045503709
+"4","HFMD","Yes","policy1",1.5979020979021
+"5","HFMD","Yes","policy2",1.68686868686869
+"6","HFMD","Yes","policy3",1.47512352062507
+"7","Others","No","policy1",1.42414417379855
+"8","Others","No","policy2",1.40389885951728
+"9","Others","No","policy3",1.78504238369291
+"10","Others","Yes","policy1",1.52925366962994
+"11","Others","Yes","policy2",1.92542542542543
+"12","Others","Yes","policy3",1.90827096162956
+"13","Dysentery","No","policy1",1.65573770491803
+"14","Dysentery","No","policy2",1.55421686746988
+"15","Dysentery","No","policy3",1.4941953107216
+"16","Dysentery","Yes","policy1",1.90163934426229
+"17","Dysentery","Yes","policy2",0.904761904761905
+"18","Dysentery","Yes","policy3",1.47683923705722
+"19","Hepatitis e","No","policy1",5.67153284671533
+"20","Hepatitis e","No","policy2",4.72251308900524
+"21","Hepatitis e","No","policy3",5.08779314491882
+"22","Hepatitis e","Yes","policy1",7.25
+"23","Hepatitis e","Yes","policy2",6.07547169811321
+"24","Hepatitis e","Yes","policy3",5.26447368421053
+"25","AHC","No","policy1",1.08411214953271
+"26","AHC","No","policy2",0.95959595959596
+"27","AHC","No","policy3",1.45417396380619
+"28","AHC","Yes","policy1",2.08333333333333
+"29","AHC","Yes","policy2",0.666666666666667
+"30","AHC","Yes","policy3",1.36423841059603
+"31","Typhoid","No","policy1",7.55357142857143
+"32","Typhoid","No","policy2",7.02857142857143
+"33","Typhoid","No","policy3",6.57142857142857
+"34","Typhoid","Yes","policy1",13.8333333333333
+"35","Typhoid","Yes","policy2",6
+"36","Typhoid","Yes","policy3",6.27272727272727
+"37","Paratyphoid","No","policy1",7
+"38","Paratyphoid","No","policy2",6
+"39","Paratyphoid","No","policy3",6
+"40","Paratyphoid","Yes","policy1",5
+"41","Paratyphoid","Yes","policy2",3
+"42","Paratyphoid","Yes","policy3",8
+"43","Cholera","No","policy3",2.77777777777778
+"44","Cholera","Yes","policy3",4
+"45","Dengue","No","policy1",6.68
+"46","Dengue","No","policy2",5
+"47","Dengue","No","policy3",4.00531679220204
+"48","Dengue","Yes","policy1",5
+"49","Dengue","Yes","policy3",3.33333333333333
+"50","Scrub typhus","No","policy1",0
+"51","Scrub typhus","No","policy3",5.02714932126697
+"52","Scrub typhus","Yes","policy1",7
+"53","Scrub typhus","Yes","policy2",5
+"54","Scrub typhus","Yes","policy3",5.27540983606557
+"55","Haemorrhagic fever","No","policy1",8.03960396039604
+"56","Haemorrhagic fever","No","policy2",6.90476190476191
+"57","Haemorrhagic fever","No","policy3",5.93122676579926
+"58","Haemorrhagic fever","Yes","policy1",12.75
+"59","Haemorrhagic fever","Yes","policy2",8.77777777777778
+"60","Haemorrhagic fever","Yes","policy3",6.60248447204969
+"61","Malaria","No","policy1",3.28846153846154
+"62","Malaria","No","policy2",2.65217391304348
+"63","Malaria","No","policy3",3.55907780979827
+"64","Malaria","Yes","policy1",4.42857142857143
+"65","Malaria","Yes","policy2",14.5
+"66","Malaria","Yes","policy3",2.56521739130435
+"67","Brucellosis","No","policy1",10.5161290322581
+"68","Brucellosis","No","policy2",10.6875
+"69","Brucellosis","No","policy3",8.53684210526316
+"70","Brucellosis","Yes","policy1",14.1666666666667
+"71","Brucellosis","Yes","policy2",11.1428571428571
+"72","Brucellosis","Yes","policy3",10.4788732394366
+"73","SFTS","No","policy3",5.19889502762431
+"74","SFTS","Yes","policy1",8
+"75","SFTS","Yes","policy2",6
+"76","SFTS","Yes","policy3",5.125
+"77","Leptospirosis","No","policy3",9.92307692307692
+"78","Leptospirosis","Yes","policy3",5.82142857142857
+"79","Rabies","No","policy1",3.6
+"80","Rabies","No","policy2",4.5
+"81","Rabies","No","policy3",4.15789473684211
+"82","Rabies","Yes","policy1",3
+"83","Typhus","No","policy3",NA
+"84","Typhus","Yes","policy3",11.3636363636364
+"85","Influenza","No","policy1",1.58391218307147
+"86","Influenza","No","policy2",1.24959180516646
+"87","Influenza","No","policy3",1.61174996549125
+"88","Influenza","Yes","policy1",1.09584709437144
+"89","Influenza","Yes","policy2",1.52417302798982
+"90","Influenza","Yes","policy3",1.53105401577989
+"91","Scarlet fever","No","policy1",1.44674556213018
+"92","Scarlet fever","No","policy2",1.44981412639405
+"93","Scarlet fever","No","policy3",1.52173913043478
+"94","Scarlet fever","Yes","policy1",1.17647058823529
+"95","Scarlet fever","Yes","policy2",1.95454545454545
+"96","Scarlet fever","Yes","policy3",1.75187969924812

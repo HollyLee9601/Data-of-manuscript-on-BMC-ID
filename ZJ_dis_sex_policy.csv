@@ -1,0 +1,183 @@
+"","Diseases","Sex","Policy","Implement","Cases","percent"
+"1","HFMD","Male","Common 1","No",4169,57.9671857619577
+"2","HFMD","Female","Common 1","No",3023,42.0328142380423
+"3","HFMD","Male","Policy 1","Yes",152,53.1468531468531
+"4","HFMD","Female","Policy 1","Yes",134,46.8531468531469
+"5","HFMD","Male","Common 2","No",2700,56.9500105462982
+"6","HFMD","Female","Common 2","No",2041,43.0499894537017
+"7","HFMD","Male","Policy 2","Yes",58,58.5858585858586
+"8","HFMD","Female","Policy 2","Yes",41,41.4141414141414
+"9","HFMD","Male","Common 3","No",223935,58.931658907711
+"10","HFMD","Female","Common 3","No",156056,41.068341092289
+"11","HFMD","Male","Policy 3","Yes",15251,58.4128078440384
+"12","HFMD","Female","Policy 3","Yes",10858,41.5871921559615
+"13","Others","Male","Common 1","No",33793,55.6171823568137
+"14","Others","Female","Common 1","No",26967,44.3828176431863
+"15","Others","Male","Policy 1","Yes",2607,53.8970436220798
+"16","Others","Female","Policy 1","Yes",2230,46.1029563779202
+"17","Others","Male","Common 2","No",12611,55.746618336133
+"18","Others","Female","Common 2","No",10011,44.253381663867
+"19","Others","Male","Policy 2","Yes",1095,54.8048048048048
+"20","Others","Female","Policy 2","Yes",903,45.1951951951952
+"21","Others","Male","Common 3","No",94823,53.7652028463697
+"22","Others","Female","Common 3","No",81542,46.2347971536303
+"23","Others","Male","Policy 3","Yes",28098,53.2411179535765
+"24","Others","Female","Policy 3","Yes",24677,46.7588820464235
+"25","Dysentery","Male","Common 1","No",182,49.7267759562842
+"26","Dysentery","Female","Common 1","No",184,50.2732240437158
+"27","Dysentery","Male","Policy 1","Yes",38,62.2950819672131
+"28","Dysentery","Female","Policy 1","Yes",23,37.7049180327869
+"29","Dysentery","Male","Common 2","No",88,53.0120481927711
+"30","Dysentery","Female","Common 2","No",78,46.9879518072289
+"31","Dysentery","Male","Policy 2","Yes",22,52.3809523809524
+"32","Dysentery","Female","Policy 2","Yes",20,47.6190476190476
+"33","Dysentery","Male","Common 3","No",2417,55.0193489642613
+"34","Dysentery","Female","Common 3","No",1976,44.9806510357387
+"35","Dysentery","Male","Policy 3","Yes",630,57.2207084468665
+"36","Dysentery","Female","Policy 3","Yes",471,42.7792915531335
+"37","Hepatitis e","Male","Common 1","No",447,65.2554744525547
+"38","Hepatitis e","Female","Common 1","No",238,34.7445255474453
+"39","Hepatitis e","Male","Policy 1","Yes",66,63.4615384615385
+"40","Hepatitis e","Female","Policy 1","Yes",38,36.5384615384615
+"41","Hepatitis e","Male","Common 2","No",241,63.0890052356021
+"42","Hepatitis e","Female","Common 2","No",141,36.9109947643979
+"43","Hepatitis e","Male","Policy 2","Yes",29,54.7169811320755
+"44","Hepatitis e","Female","Policy 2","Yes",24,45.2830188679245
+"45","Hepatitis e","Male","Common 3","No",1998,60.0721587492484
+"46","Hepatitis e","Female","Common 3","No",1328,39.9278412507517
+"47","Hepatitis e","Male","Policy 3","Yes",448,58.9473684210526
+"48","Hepatitis e","Female","Policy 3","Yes",312,41.0526315789474
+"49","AHC","Male","Common 1","No",117,54.6728971962617
+"50","AHC","Female","Common 1","No",97,45.3271028037383
+"51","AHC","Male","Policy 1","Yes",49,51.0416666666667
+"52","AHC","Female","Policy 1","Yes",47,48.9583333333333
+"53","AHC","Male","Common 2","No",52,52.5252525252525
+"54","AHC","Female","Common 2","No",47,47.4747474747475
+"55","AHC","Male","Policy 2","Yes",9,60
+"56","AHC","Female","Policy 2","Yes",6,40
+"57","AHC","Male","Common 3","No",955,55.7501459427904
+"58","AHC","Female","Common 3","No",758,44.2498540572096
+"59","AHC","Male","Policy 3","Yes",161,53.3112582781457
+"60","AHC","Female","Policy 3","Yes",141,46.6887417218543
+"61","Typhoid","Male","Common 1","No",27,48.2142857142857
+"62","Typhoid","Female","Common 1","No",29,51.7857142857143
+"63","Typhoid","Male","Policy 1","Yes",3,50
+"64","Typhoid","Female","Policy 1","Yes",3,50
+"65","Typhoid","Male","Common 2","No",18,51.4285714285714
+"66","Typhoid","Female","Common 2","No",17,48.5714285714286
+"67","Typhoid","Male","Policy 2","Yes",1,50
+"68","Typhoid","Female","Policy 2","Yes",1,50
+"69","Typhoid","Male","Common 3","No",217,49.2063492063492
+"70","Typhoid","Female","Common 3","No",224,50.7936507936508
+"71","Typhoid","Male","Policy 3","Yes",39,59.0909090909091
+"72","Typhoid","Female","Policy 3","Yes",27,40.9090909090909
+"73","Paratyphoid","Male","Common 1","No",5,100
+"74","Paratyphoid","Male","Policy 1","Yes",1,100
+"75","Paratyphoid","Male","Common 2","No",3,75
+"76","Paratyphoid","Female","Common 2","No",1,25
+"77","Paratyphoid","Male","Policy 2","Yes",1,100
+"78","Paratyphoid","Male","Common 3","No",94,50.8108108108108
+"79","Paratyphoid","Female","Common 3","No",91,49.1891891891892
+"80","Paratyphoid","Male","Policy 3","Yes",21,63.6363636363636
+"81","Paratyphoid","Female","Policy 3","Yes",12,36.3636363636364
+"82","Cholera","Male","Common 3","No",7,77.7777777777778
+"83","Cholera","Female","Common 3","No",2,22.2222222222222
+"84","Cholera","Male","Policy 3","Yes",1,50
+"85","Cholera","Female","Policy 3","Yes",1,50
+"86","Dengue","Male","Common 1","No",19,76
+"87","Dengue","Female","Common 1","No",6,24
+"88","Dengue","Male","Policy 1","Yes",3,60
+"89","Dengue","Female","Policy 1","Yes",2,40
+"90","Dengue","Male","Common 2","No",1,50
+"91","Dengue","Female","Common 2","No",1,50
+"92","Dengue","Male","Common 3","No",1246,55.206025697829
+"93","Dengue","Female","Common 3","No",1011,44.793974302171
+"94","Dengue","Male","Policy 3","Yes",3,100
+"95","Scrub typhus","Male","Common 1","No",1,50
+"96","Scrub typhus","Female","Common 1","No",1,50
+"97","Scrub typhus","Male","Policy 1","Yes",1,25
+"98","Scrub typhus","Female","Policy 1","Yes",3,75
+"99","Scrub typhus","Male","Policy 2","Yes",1,50
+"100","Scrub typhus","Female","Policy 2","Yes",1,50
+"101","Scrub typhus","Male","Common 3","No",408,46.1538461538462
+"102","Scrub typhus","Female","Common 3","No",476,53.8461538461538
+"103","Scrub typhus","Male","Policy 3","Yes",144,47.2131147540984
+"104","Scrub typhus","Female","Policy 3","Yes",161,52.7868852459016
+"105","Haemorrhagic fever","Male","Common 1","No",72,71.2871287128713
+"106","Haemorrhagic fever","Female","Common 1","No",29,28.7128712871287
+"107","Haemorrhagic fever","Male","Policy 1","Yes",3,75
+"108","Haemorrhagic fever","Female","Policy 1","Yes",1,25
+"109","Haemorrhagic fever","Male","Common 2","No",31,73.8095238095238
+"110","Haemorrhagic fever","Female","Common 2","No",11,26.1904761904762
+"111","Haemorrhagic fever","Male","Policy 2","Yes",6,66.6666666666667
+"112","Haemorrhagic fever","Female","Policy 2","Yes",3,33.3333333333333
+"113","Haemorrhagic fever","Male","Common 3","No",388,72.1189591078067
+"114","Haemorrhagic fever","Female","Common 3","No",150,27.8810408921933
+"115","Haemorrhagic fever","Male","Policy 3","Yes",117,72.6708074534162
+"116","Haemorrhagic fever","Female","Policy 3","Yes",44,27.3291925465839
+"117","Malaria","Male","Common 1","No",48,92.3076923076923
+"118","Malaria","Female","Common 1","No",4,7.69230769230769
+"119","Malaria","Male","Policy 1","Yes",5,71.4285714285714
+"120","Malaria","Female","Policy 1","Yes",2,28.5714285714286
+"121","Malaria","Male","Common 2","No",20,86.9565217391304
+"122","Malaria","Female","Common 2","No",3,13.0434782608696
+"123","Malaria","Male","Policy 2","Yes",2,100
+"124","Malaria","Male","Common 3","No",311,89.6253602305475
+"125","Malaria","Female","Common 3","No",36,10.3746397694525
+"126","Malaria","Male","Policy 3","Yes",21,91.304347826087
+"127","Malaria","Female","Policy 3","Yes",2,8.69565217391304
+"128","Brucellosis","Male","Common 1","No",23,74.1935483870968
+"129","Brucellosis","Female","Common 1","No",8,25.8064516129032
+"130","Brucellosis","Male","Policy 1","Yes",5,83.3333333333333
+"131","Brucellosis","Female","Policy 1","Yes",1,16.6666666666667
+"132","Brucellosis","Male","Common 2","No",14,87.5
+"133","Brucellosis","Female","Common 2","No",2,12.5
+"134","Brucellosis","Male","Policy 2","Yes",5,71.4285714285714
+"135","Brucellosis","Female","Policy 2","Yes",2,28.5714285714286
+"136","Brucellosis","Male","Common 3","No",135,71.0526315789474
+"137","Brucellosis","Female","Common 3","No",55,28.9473684210526
+"138","Brucellosis","Male","Policy 3","Yes",50,70.4225352112676
+"139","Brucellosis","Female","Policy 3","Yes",21,29.5774647887324
+"140","SFTS","Female","Policy 1","Yes",1,100
+"141","SFTS","Female","Policy 2","Yes",1,100
+"142","SFTS","Male","Common 3","No",97,53.5911602209945
+"143","SFTS","Female","Common 3","No",84,46.4088397790055
+"144","SFTS","Male","Policy 3","Yes",47,58.75
+"145","SFTS","Female","Policy 3","Yes",33,41.25
+"146","Leptospirosis","Male","Common 3","No",45,86.5384615384615
+"147","Leptospirosis","Female","Common 3","No",7,13.4615384615385
+"148","Leptospirosis","Male","Policy 3","Yes",49,87.5
+"149","Leptospirosis","Female","Policy 3","Yes",7,12.5
+"150","Rabies","Male","Common 1","No",3,60
+"151","Rabies","Female","Common 1","No",2,40
+"152","Rabies","Male","Policy 1","Yes",1,100
+"153","Rabies","Male","Common 2","No",2,100
+"154","Rabies","Male","Common 3","No",19,100
+"155","Typhus","Male","Common 3","No",7,53.8461538461538
+"156","Typhus","Female","Common 3","No",6,46.1538461538462
+"157","Typhus","Male","Policy 3","Yes",5,45.4545454545455
+"158","Typhus","Female","Policy 3","Yes",6,54.5454545454545
+"159","Influenza","Male","Common 1","No",75377,50.0557820780152
+"160","Influenza","Female","Common 1","No",75209,49.9442179219848
+"161","Influenza","Male","Policy 1","Yes",14498,50.9380928957909
+"162","Influenza","Female","Policy 1","Yes",13964,49.0619071042091
+"163","Influenza","Male","Common 2","No",29628,50.9220906450338
+"164","Influenza","Female","Common 2","No",28555,49.0779093549662
+"165","Influenza","Male","Policy 2","Yes",441,56.1068702290076
+"166","Influenza","Female","Policy 2","Yes",345,43.8931297709924
+"167","Influenza","Male","Common 3","No",48378,51.3681393941324
+"168","Influenza","Female","Common 3","No",45801,48.6318606058676
+"169","Influenza","Male","Policy 3","Yes",2779,56.2209184705644
+"170","Influenza","Female","Policy 3","Yes",2164,43.7790815294356
+"171","Scarlet fever","Male","Common 1","No",203,60.0591715976331
+"172","Scarlet fever","Female","Common 1","No",135,39.9408284023669
+"173","Scarlet fever","Male","Policy 1","Yes",18,52.9411764705882
+"174","Scarlet fever","Female","Policy 1","Yes",16,47.0588235294118
+"175","Scarlet fever","Male","Common 2","No",164,60.9665427509294
+"176","Scarlet fever","Female","Common 2","No",105,39.0334572490706
+"177","Scarlet fever","Male","Policy 2","Yes",17,77.2727272727273
+"178","Scarlet fever","Female","Policy 2","Yes",5,22.7272727272727
+"179","Scarlet fever","Male","Common 3","No",2569,60.3760282021152
+"180","Scarlet fever","Female","Common 3","No",1686,39.6239717978848
+"181","Scarlet fever","Male","Policy 3","Yes",149,56.015037593985
+"182","Scarlet fever","Female","Policy 3","Yes",117,43.984962406015

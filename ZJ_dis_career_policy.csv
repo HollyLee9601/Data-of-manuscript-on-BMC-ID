@@ -1,0 +1,714 @@
+"","diseases","career1","Implement","level","cases","percent"
+"1","HFMD","Children","No","policy1",6676,92.825361512792
+"2","HFMD","Students","No","policy1",460,6.39599555061179
+"3","HFMD","Farmers","No","policy1",15,0.208565072302558
+"4","HFMD","Workers","No","policy1",14,0.194660734149054
+"5","HFMD","Business services","No","policy1",5,0.0695216907675195
+"6","HFMD","Cadre staffs","No","policy1",6,0.0834260289210234
+"7","HFMD","Medical staff","No","policy1",1,0.0139043381535039
+"8","HFMD","Teachers","No","policy1",3,0.0417130144605117
+"9","HFMD","Retirees","No","policy1",1,0.0139043381535039
+"10","HFMD","Unemployment","No","policy1",8,0.111234705228031
+"11","HFMD","Others","No","policy1",3,0.0417130144605117
+"12","HFMD","Children","No","policy2",4529,95.5283695422907
+"13","HFMD","Students","No","policy2",190,4.00759333473951
+"14","HFMD","Farmers","No","policy2",6,0.126555578991774
+"15","HFMD","Workers","No","policy2",5,0.105462982493145
+"16","HFMD","Business services","No","policy2",2,0.042185192997258
+"17","HFMD","Cadre staffs","No","policy2",2,0.042185192997258
+"18","HFMD","Teachers","No","policy2",1,0.021092596498629
+"19","HFMD","Retirees","No","policy2",1,0.021092596498629
+"20","HFMD","Unemployment","No","policy2",1,0.021092596498629
+"21","HFMD","Others","No","policy2",4,0.0843703859945159
+"22","HFMD","Children","No","policy3",360771,94.9419854680769
+"23","HFMD","Students","No","policy3",17227,4.53352842567324
+"24","HFMD","Farmers","No","policy3",378,0.0994760402220052
+"25","HFMD","Wpeasant-workers","No","policy3",15,0.00394746191357164
+"26","HFMD","Workers","No","policy3",412,0.108423620559434
+"27","HFMD","Business services","No","policy3",253,0.066580524275575
+"28","HFMD","Cadre staffs","No","policy3",217,0.057106615683003
+"29","HFMD","Medical staff","No","policy3",54,0.0142108628888579
+"30","HFMD","Teachers","No","policy3",105,0.0276322333950015
+"31","HFMD","Retirees","No","policy3",6,0.00157898476542865
+"32","HFMD","Unemployment","No","policy3",317,0.0834230284401473
+"33","HFMD","Others","No","policy3",236,0.0621067341068604
+"34","HFMD","Children","Yes","policy1",253,88.4615384615385
+"35","HFMD","Students","Yes","policy1",28,9.79020979020979
+"36","HFMD","Farmers","Yes","policy1",1,0.34965034965035
+"37","HFMD","Workers","Yes","policy1",3,1.04895104895105
+"38","HFMD","Business services","Yes","policy1",1,0.34965034965035
+"39","HFMD","Children","Yes","policy2",84,84.8484848484848
+"40","HFMD","Students","Yes","policy2",13,13.1313131313131
+"41","HFMD","Farmers","Yes","policy2",1,1.01010101010101
+"42","HFMD","Business services","Yes","policy2",1,1.01010101010101
+"43","HFMD","Children","Yes","policy3",24867,95.2430196483971
+"44","HFMD","Students","Yes","policy3",1076,4.12118426596193
+"45","HFMD","Farmers","Yes","policy3",26,0.0995825194377418
+"46","HFMD","Wpeasant-workers","Yes","policy3",1,0.00383009690145161
+"47","HFMD","Workers","Yes","policy3",38,0.145543682255161
+"48","HFMD","Business services","Yes","policy3",20,0.0766019380290321
+"49","HFMD","Cadre staffs","Yes","policy3",11,0.0421310659159677
+"50","HFMD","Medical staff","Yes","policy3",3,0.0114902907043548
+"51","HFMD","Teachers","Yes","policy3",8,0.0306407752116129
+"52","HFMD","Retirees","Yes","policy3",2,0.00766019380290321
+"53","HFMD","Unemployment","Yes","policy3",39,0.149373779156613
+"54","HFMD","Others","Yes","policy3",18,0.0689417442261289
+"55","Others","Children","No","policy1",45190,74.3745885450954
+"56","Others","Students","No","policy1",2419,3.98123765635286
+"57","Others","Farmers","No","policy1",6880,11.3232389730086
+"58","Others","Wpeasant-workers","No","policy1",85,0.139894667544437
+"59","Others","Workers","No","policy1",1740,2.86372613561554
+"60","Others","Business services","No","policy1",605,0.995720868992758
+"61","Others","Cadre staffs","No","policy1",648,1.06649111257406
+"62","Others","Medical staff","No","policy1",233,0.383475971033575
+"63","Others","Teachers","No","policy1",269,0.442725477287689
+"64","Others","Retirees","No","policy1",818,1.34628044766294
+"65","Others","Unemployment","No","policy1",1574,2.59052007899934
+"66","Others","Others","No","policy1",299,0.492100065832785
+"67","Others","Children","No","policy2",15695,69.3793652196976
+"68","Others","Students","No","policy2",1430,6.32128016974626
+"69","Others","Farmers","No","policy2",2606,11.519759526125
+"70","Others","Wpeasant-workers","No","policy2",58,0.256387587304394
+"71","Others","Workers","No","policy2",776,3.43028909910706
+"72","Others","Business services","No","policy2",304,1.34382459552648
+"73","Others","Cadre staffs","No","policy2",267,1.18026699672885
+"74","Others","Medical staff","No","policy2",93,0.411104234815666
+"75","Others","Teachers","No","policy2",118,0.521616125895146
+"76","Others","Retirees","No","policy2",375,1.6576783661922
+"77","Others","Unemployment","No","policy2",710,3.13853770665724
+"78","Others","Others","No","policy2",190,0.839890372204049
+"79","Others","Children","No","policy3",71089,40.3078842173901
+"80","Others","Students","No","policy3",13342,7.56499305417742
+"81","Others","Farmers","No","policy3",42367,24.0223400334534
+"82","Others","Wpeasant-workers","No","policy3",1457,0.826127633033765
+"83","Others","Workers","No","policy3",12553,7.11762537918521
+"84","Others","Business services","No","policy3",5930,3.36234513650668
+"85","Others","Cadre staffs","No","policy3",5445,3.0873472627789
+"86","Others","Medical staff","No","policy3",1100,0.62370651773311
+"87","Others","Teachers","No","policy3",1484,0.841436793014487
+"88","Others","Retirees","No","policy3",5550,3.14688288492615
+"89","Others","Unemployment","No","policy3",12639,7.16638788875344
+"90","Others","Others","No","policy3",3409,1.93292319904743
+"91","Others","Children","Yes","policy1",2807,58.0318379160637
+"92","Others","Students","Yes","policy1",257,5.31321066776928
+"93","Others","Farmers","Yes","policy1",952,19.6816208393632
+"94","Others","Wpeasant-workers","Yes","policy1",5,0.103369857349597
+"95","Others","Workers","Yes","policy1",179,3.70064089311557
+"96","Others","Business services","Yes","policy1",88,1.8193094893529
+"97","Others","Cadre staffs","Yes","policy1",70,1.44717800289436
+"98","Others","Medical staff","Yes","policy1",45,0.930328716146372
+"99","Others","Teachers","Yes","policy1",24,0.496175315278065
+"100","Others","Retirees","Yes","policy1",112,2.31548480463097
+"101","Others","Unemployment","Yes","policy1",243,5.02377506719041
+"102","Others","Others","Yes","policy1",55,1.13706843084557
+"103","Others","Children","Yes","policy2",1017,50.9009009009009
+"104","Others","Students","Yes","policy2",171,8.55855855855856
+"105","Others","Farmers","Yes","policy2",405,20.2702702702703
+"106","Others","Wpeasant-workers","Yes","policy2",11,0.550550550550551
+"107","Others","Workers","Yes","policy2",87,4.35435435435435
+"108","Others","Business services","Yes","policy2",47,2.35235235235235
+"109","Others","Cadre staffs","Yes","policy2",30,1.5015015015015
+"110","Others","Medical staff","Yes","policy2",11,0.550550550550551
+"111","Others","Teachers","Yes","policy2",8,0.4004004004004
+"112","Others","Retirees","Yes","policy2",54,2.7027027027027
+"113","Others","Unemployment","Yes","policy2",114,5.70570570570571
+"114","Others","Others","Yes","policy2",43,2.15215215215215
+"115","Others","Children","Yes","policy3",17769,33.6693510184747
+"116","Others","Students","Yes","policy3",5280,10.0047370914259
+"117","Others","Farmers","Yes","policy3",13356,25.3074372335386
+"118","Others","Wpeasant-workers","Yes","policy3",472,0.894362861203221
+"119","Others","Workers","Yes","policy3",4241,8.03600189483657
+"120","Others","Business services","Yes","policy3",1890,3.58124111795358
+"121","Others","Cadre staffs","Yes","policy3",1641,3.10942681193747
+"122","Others","Medical staff","Yes","policy3",312,0.591189009947892
+"123","Others","Teachers","Yes","policy3",407,0.771198484130744
+"124","Others","Retirees","Yes","policy3",1557,2.95026054002842
+"125","Others","Unemployment","Yes","policy3",4703,8.91141639033633
+"126","Others","Others","Yes","policy3",1147,2.17337754618664
+"127","Dysentery","Children","No","policy1",95,25.9562841530055
+"128","Dysentery","Students","No","policy1",59,16.120218579235
+"129","Dysentery","Farmers","No","policy1",93,25.4098360655738
+"130","Dysentery","Workers","No","policy1",34,9.2896174863388
+"131","Dysentery","Business services","No","policy1",19,5.19125683060109
+"132","Dysentery","Cadre staffs","No","policy1",16,4.37158469945355
+"133","Dysentery","Teachers","No","policy1",2,0.546448087431694
+"134","Dysentery","Retirees","No","policy1",15,4.0983606557377
+"135","Dysentery","Unemployment","No","policy1",30,8.19672131147541
+"136","Dysentery","Others","No","policy1",3,0.819672131147541
+"137","Dysentery","Children","No","policy2",41,24.6987951807229
+"138","Dysentery","Students","No","policy2",25,15.0602409638554
+"139","Dysentery","Farmers","No","policy2",28,16.8674698795181
+"140","Dysentery","Workers","No","policy2",25,15.0602409638554
+"141","Dysentery","Business services","No","policy2",9,5.42168674698795
+"142","Dysentery","Cadre staffs","No","policy2",5,3.01204819277108
+"143","Dysentery","Medical staff","No","policy2",2,1.20481927710843
+"144","Dysentery","Teachers","No","policy2",5,3.01204819277108
+"145","Dysentery","Retirees","No","policy2",12,7.2289156626506
+"146","Dysentery","Unemployment","No","policy2",13,7.83132530120482
+"147","Dysentery","Others","No","policy2",1,0.602409638554217
+"148","Dysentery","Children","No","policy3",1142,25.9959025722741
+"149","Dysentery","Students","No","policy3",598,13.6125654450262
+"150","Dysentery","Farmers","No","policy3",713,16.2303664921466
+"151","Dysentery","Wpeasant-workers","No","policy3",34,0.773958570452993
+"152","Dysentery","Workers","No","policy3",453,10.3118597769178
+"153","Dysentery","Business services","No","policy3",345,7.85340314136126
+"154","Dysentery","Cadre staffs","No","policy3",331,7.53471431823355
+"155","Dysentery","Medical staff","No","policy3",28,0.637377646255406
+"156","Dysentery","Teachers","No","policy3",54,1.22922831777828
+"157","Dysentery","Retirees","No","policy3",268,6.10061461415889
+"158","Dysentery","Unemployment","No","policy3",332,7.55747780559982
+"159","Dysentery","Others","No","policy3",95,2.16253129979513
+"160","Dysentery","Children","Yes","policy1",22,36.0655737704918
+"161","Dysentery","Students","Yes","policy1",7,11.4754098360656
+"162","Dysentery","Farmers","Yes","policy1",11,18.0327868852459
+"163","Dysentery","Workers","Yes","policy1",4,6.55737704918033
+"164","Dysentery","Business services","Yes","policy1",5,8.19672131147541
+"165","Dysentery","Cadre staffs","Yes","policy1",2,3.27868852459016
+"166","Dysentery","Retirees","Yes","policy1",6,9.83606557377049
+"167","Dysentery","Unemployment","Yes","policy1",3,4.91803278688525
+"168","Dysentery","Others","Yes","policy1",1,1.63934426229508
+"169","Dysentery","Children","Yes","policy2",10,23.8095238095238
+"170","Dysentery","Students","Yes","policy2",7,16.6666666666667
+"171","Dysentery","Farmers","Yes","policy2",5,11.9047619047619
+"172","Dysentery","Workers","Yes","policy2",7,16.6666666666667
+"173","Dysentery","Business services","Yes","policy2",6,14.2857142857143
+"174","Dysentery","Teachers","Yes","policy2",1,2.38095238095238
+"175","Dysentery","Unemployment","Yes","policy2",5,11.9047619047619
+"176","Dysentery","Others","Yes","policy2",1,2.38095238095238
+"177","Dysentery","Children","Yes","policy3",337,30.6085376930064
+"178","Dysentery","Students","Yes","policy3",169,15.3496821071753
+"179","Dysentery","Farmers","Yes","policy3",153,13.8964577656676
+"180","Dysentery","Wpeasant-workers","Yes","policy3",3,0.272479564032698
+"181","Dysentery","Workers","Yes","policy3",97,8.81017257039055
+"182","Dysentery","Business services","Yes","policy3",100,9.08265213442325
+"183","Dysentery","Cadre staffs","Yes","policy3",94,8.53769300635786
+"184","Dysentery","Medical staff","Yes","policy3",7,0.635785649409628
+"185","Dysentery","Teachers","Yes","policy3",15,1.36239782016349
+"186","Dysentery","Retirees","Yes","policy3",45,4.08719346049046
+"187","Dysentery","Unemployment","Yes","policy3",65,5.90372388737511
+"188","Dysentery","Others","Yes","policy3",16,1.45322434150772
+"189","Hepatitis e","Children","No","policy1",2,0.291970802919708
+"190","Hepatitis e","Students","No","policy1",3,0.437956204379562
+"191","Hepatitis e","Farmers","No","policy1",311,45.4014598540146
+"192","Hepatitis e","Wpeasant-workers","No","policy1",3,0.437956204379562
+"193","Hepatitis e","Workers","No","policy1",81,11.8248175182482
+"194","Hepatitis e","Business services","No","policy1",64,9.34306569343066
+"195","Hepatitis e","Cadre staffs","No","policy1",34,4.96350364963504
+"196","Hepatitis e","Medical staff","No","policy1",4,0.583941605839416
+"197","Hepatitis e","Teachers","No","policy1",5,0.72992700729927
+"198","Hepatitis e","Retirees","No","policy1",64,9.34306569343066
+"199","Hepatitis e","Unemployment","No","policy1",58,8.46715328467153
+"200","Hepatitis e","Others","No","policy1",56,8.17518248175183
+"201","Hepatitis e","Children","No","policy2",1,0.261780104712042
+"202","Hepatitis e","Students","No","policy2",3,0.785340314136126
+"203","Hepatitis e","Farmers","No","policy2",142,37.17277486911
+"204","Hepatitis e","Wpeasant-workers","No","policy2",9,2.35602094240838
+"205","Hepatitis e","Workers","No","policy2",64,16.7539267015707
+"206","Hepatitis e","Business services","No","policy2",40,10.4712041884817
+"207","Hepatitis e","Cadre staffs","No","policy2",18,4.71204188481675
+"208","Hepatitis e","Medical staff","No","policy2",2,0.523560209424084
+"209","Hepatitis e","Teachers","No","policy2",3,0.785340314136126
+"210","Hepatitis e","Retirees","No","policy2",39,10.2094240837696
+"211","Hepatitis e","Unemployment","No","policy2",38,9.94764397905759
+"212","Hepatitis e","Others","No","policy2",23,6.02094240837696
+"213","Hepatitis e","Children","No","policy3",1,0.0300661455201443
+"214","Hepatitis e","Students","No","policy3",32,0.962116656644618
+"215","Hepatitis e","Farmers","No","policy3",1296,38.965724594107
+"216","Hepatitis e","Wpeasant-workers","No","policy3",46,1.38304269392664
+"217","Hepatitis e","Workers","No","policy3",413,12.4173180998196
+"218","Hepatitis e","Business services","No","policy3",451,13.5598316295851
+"219","Hepatitis e","Cadre staffs","No","policy3",135,4.05892964521948
+"220","Hepatitis e","Medical staff","No","policy3",21,0.631389055923031
+"221","Hepatitis e","Teachers","No","policy3",22,0.661455201443175
+"222","Hepatitis e","Retirees","No","policy3",272,8.17799158147925
+"223","Hepatitis e","Unemployment","No","policy3",388,11.665664461816
+"224","Hepatitis e","Others","No","policy3",249,7.48647023451594
+"225","Hepatitis e","Students","Yes","policy1",1,0.961538461538462
+"226","Hepatitis e","Farmers","Yes","policy1",44,42.3076923076923
+"227","Hepatitis e","Wpeasant-workers","Yes","policy1",1,0.961538461538462
+"228","Hepatitis e","Workers","Yes","policy1",14,13.4615384615385
+"229","Hepatitis e","Business services","Yes","policy1",8,7.69230769230769
+"230","Hepatitis e","Cadre staffs","Yes","policy1",2,1.92307692307692
+"231","Hepatitis e","Medical staff","Yes","policy1",3,2.88461538461538
+"232","Hepatitis e","Retirees","Yes","policy1",7,6.73076923076923
+"233","Hepatitis e","Unemployment","Yes","policy1",19,18.2692307692308
+"234","Hepatitis e","Others","Yes","policy1",5,4.80769230769231
+"235","Hepatitis e","Farmers","Yes","policy2",22,41.5094339622642
+"236","Hepatitis e","Wpeasant-workers","Yes","policy2",1,1.88679245283019
+"237","Hepatitis e","Workers","Yes","policy2",5,9.43396226415094
+"238","Hepatitis e","Business services","Yes","policy2",4,7.54716981132075
+"239","Hepatitis e","Cadre staffs","Yes","policy2",3,5.66037735849057
+"240","Hepatitis e","Teachers","Yes","policy2",1,1.88679245283019
+"241","Hepatitis e","Retirees","Yes","policy2",5,9.43396226415094
+"242","Hepatitis e","Unemployment","Yes","policy2",9,16.9811320754717
+"243","Hepatitis e","Others","Yes","policy2",3,5.66037735849057
+"244","Hepatitis e","Children","Yes","policy3",4,0.526315789473684
+"245","Hepatitis e","Students","Yes","policy3",8,1.05263157894737
+"246","Hepatitis e","Farmers","Yes","policy3",283,37.2368421052632
+"247","Hepatitis e","Wpeasant-workers","Yes","policy3",12,1.57894736842105
+"248","Hepatitis e","Workers","Yes","policy3",94,12.3684210526316
+"249","Hepatitis e","Business services","Yes","policy3",108,14.2105263157895
+"250","Hepatitis e","Cadre staffs","Yes","policy3",39,5.13157894736842
+"251","Hepatitis e","Medical staff","Yes","policy3",3,0.394736842105263
+"252","Hepatitis e","Teachers","Yes","policy3",7,0.921052631578947
+"253","Hepatitis e","Retirees","Yes","policy3",52,6.8421052631579
+"254","Hepatitis e","Unemployment","Yes","policy3",96,12.6315789473684
+"255","Hepatitis e","Others","Yes","policy3",54,7.10526315789474
+"256","AHC","Children","No","policy1",14,6.54205607476635
+"257","AHC","Students","No","policy1",15,7.00934579439252
+"258","AHC","Farmers","No","policy1",47,21.9626168224299
+"259","AHC","Wpeasant-workers","No","policy1",3,1.4018691588785
+"260","AHC","Workers","No","policy1",39,18.2242990654206
+"261","AHC","Business services","No","policy1",15,7.00934579439252
+"262","AHC","Cadre staffs","No","policy1",9,4.20560747663551
+"263","AHC","Medical staff","No","policy1",3,1.4018691588785
+"264","AHC","Teachers","No","policy1",9,4.20560747663551
+"265","AHC","Retirees","No","policy1",14,6.54205607476635
+"266","AHC","Unemployment","No","policy1",28,13.0841121495327
+"267","AHC","Others","No","policy1",18,8.41121495327103
+"268","AHC","Children","No","policy2",12,12.1212121212121
+"269","AHC","Students","No","policy2",6,6.06060606060606
+"270","AHC","Farmers","No","policy2",16,16.1616161616162
+"271","AHC","Wpeasant-workers","No","policy2",3,3.03030303030303
+"272","AHC","Workers","No","policy2",20,20.2020202020202
+"273","AHC","Business services","No","policy2",9,9.09090909090909
+"274","AHC","Cadre staffs","No","policy2",4,4.04040404040404
+"275","AHC","Medical staff","No","policy2",1,1.01010101010101
+"276","AHC","Teachers","No","policy2",2,2.02020202020202
+"277","AHC","Retirees","No","policy2",4,4.04040404040404
+"278","AHC","Unemployment","No","policy2",17,17.1717171717172
+"279","AHC","Others","No","policy2",5,5.05050505050505
+"280","AHC","Children","No","policy3",158,9.22358435493287
+"281","AHC","Students","No","policy3",201,11.7338003502627
+"282","AHC","Farmers","No","policy3",361,21.0741389375365
+"283","AHC","Wpeasant-workers","No","policy3",45,2.62697022767075
+"284","AHC","Workers","No","policy3",305,17.8050204319907
+"285","AHC","Business services","No","policy3",148,8.63981319322825
+"286","AHC","Cadre staffs","No","policy3",54,3.1523642732049
+"287","AHC","Medical staff","No","policy3",23,1.34267367192061
+"288","AHC","Teachers","No","policy3",21,1.22591943957968
+"289","AHC","Retirees","No","policy3",103,6.0128429655575
+"290","AHC","Unemployment","No","policy3",193,11.266783420899
+"291","AHC","Others","No","policy3",101,5.89608873321658
+"292","AHC","Children","Yes","policy1",4,4.16666666666667
+"293","AHC","Students","Yes","policy1",4,4.16666666666667
+"294","AHC","Farmers","Yes","policy1",42,43.75
+"295","AHC","Wpeasant-workers","Yes","policy1",6,6.25
+"296","AHC","Workers","Yes","policy1",11,11.4583333333333
+"297","AHC","Business services","Yes","policy1",4,4.16666666666667
+"298","AHC","Cadre staffs","Yes","policy1",6,6.25
+"299","AHC","Medical staff","Yes","policy1",3,3.125
+"300","AHC","Teachers","Yes","policy1",1,1.04166666666667
+"301","AHC","Retirees","Yes","policy1",5,5.20833333333333
+"302","AHC","Unemployment","Yes","policy1",8,8.33333333333333
+"303","AHC","Others","Yes","policy1",2,2.08333333333333
+"304","AHC","Students","Yes","policy2",1,6.66666666666667
+"305","AHC","Farmers","Yes","policy2",3,20
+"306","AHC","Business services","Yes","policy2",2,13.3333333333333
+"307","AHC","Cadre staffs","Yes","policy2",1,6.66666666666667
+"308","AHC","Retirees","Yes","policy2",1,6.66666666666667
+"309","AHC","Unemployment","Yes","policy2",3,20
+"310","AHC","Others","Yes","policy2",4,26.6666666666667
+"311","AHC","Children","Yes","policy3",14,4.63576158940397
+"312","AHC","Students","Yes","policy3",12,3.97350993377483
+"313","AHC","Farmers","Yes","policy3",69,22.8476821192053
+"314","AHC","Wpeasant-workers","Yes","policy3",3,0.993377483443709
+"315","AHC","Workers","Yes","policy3",53,17.5496688741722
+"316","AHC","Business services","Yes","policy3",21,6.95364238410596
+"317","AHC","Cadre staffs","Yes","policy3",4,1.32450331125828
+"318","AHC","Medical staff","Yes","policy3",9,2.98013245033113
+"319","AHC","Teachers","Yes","policy3",2,0.662251655629139
+"320","AHC","Retirees","Yes","policy3",34,11.2582781456954
+"321","AHC","Unemployment","Yes","policy3",56,18.5430463576159
+"322","AHC","Others","Yes","policy3",25,8.27814569536424
+"323","Typhoid","Children","No","policy1",4,7.14285714285714
+"324","Typhoid","Farmers","No","policy1",14,25
+"325","Typhoid","Wpeasant-workers","No","policy1",1,1.78571428571429
+"326","Typhoid","Workers","No","policy1",8,14.2857142857143
+"327","Typhoid","Business services","No","policy1",4,7.14285714285714
+"328","Typhoid","Cadre staffs","No","policy1",3,5.35714285714286
+"329","Typhoid","Retirees","No","policy1",1,1.78571428571429
+"330","Typhoid","Unemployment","No","policy1",18,32.1428571428571
+"331","Typhoid","Others","No","policy1",3,5.35714285714286
+"332","Typhoid","Children","No","policy2",1,2.85714285714286
+"333","Typhoid","Students","No","policy2",1,2.85714285714286
+"334","Typhoid","Farmers","No","policy2",6,17.1428571428571
+"335","Typhoid","Wpeasant-workers","No","policy2",1,2.85714285714286
+"336","Typhoid","Workers","No","policy2",5,14.2857142857143
+"337","Typhoid","Business services","No","policy2",3,8.57142857142857
+"338","Typhoid","Cadre staffs","No","policy2",2,5.71428571428571
+"339","Typhoid","Retirees","No","policy2",2,5.71428571428571
+"340","Typhoid","Unemployment","No","policy2",7,20
+"341","Typhoid","Others","No","policy2",7,20
+"342","Typhoid","Children","No","policy3",46,10.4308390022676
+"343","Typhoid","Students","No","policy3",31,7.02947845804989
+"344","Typhoid","Farmers","No","policy3",125,28.3446712018141
+"345","Typhoid","Wpeasant-workers","No","policy3",6,1.36054421768707
+"346","Typhoid","Workers","No","policy3",47,10.6575963718821
+"347","Typhoid","Business services","No","policy3",24,5.4421768707483
+"348","Typhoid","Cadre staffs","No","policy3",14,3.17460317460317
+"349","Typhoid","Medical staff","No","policy3",5,1.13378684807256
+"350","Typhoid","Teachers","No","policy3",4,0.90702947845805
+"351","Typhoid","Retirees","No","policy3",29,6.57596371882086
+"352","Typhoid","Unemployment","No","policy3",79,17.9138321995465
+"353","Typhoid","Others","No","policy3",31,7.02947845804989
+"354","Typhoid","Farmers","Yes","policy1",3,50
+"355","Typhoid","Retirees","Yes","policy1",1,16.6666666666667
+"356","Typhoid","Unemployment","Yes","policy1",2,33.3333333333333
+"357","Typhoid","Farmers","Yes","policy2",1,50
+"358","Typhoid","Unemployment","Yes","policy2",1,50
+"359","Typhoid","Children","Yes","policy3",5,7.57575757575758
+"360","Typhoid","Students","Yes","policy3",7,10.6060606060606
+"361","Typhoid","Farmers","Yes","policy3",26,39.3939393939394
+"362","Typhoid","Workers","Yes","policy3",5,7.57575757575758
+"363","Typhoid","Business services","Yes","policy3",3,4.54545454545455
+"364","Typhoid","Cadre staffs","Yes","policy3",1,1.51515151515152
+"365","Typhoid","Retirees","Yes","policy3",5,7.57575757575758
+"366","Typhoid","Unemployment","Yes","policy3",11,16.6666666666667
+"367","Typhoid","Others","Yes","policy3",3,4.54545454545455
+"368","Paratyphoid","Children","No","policy1",1,20
+"369","Paratyphoid","Students","No","policy1",2,40
+"370","Paratyphoid","Retirees","No","policy1",1,20
+"371","Paratyphoid","Others","No","policy1",1,20
+"372","Paratyphoid","Children","No","policy2",2,50
+"373","Paratyphoid","Farmers","No","policy2",2,50
+"374","Paratyphoid","Children","No","policy3",79,42.7027027027027
+"375","Paratyphoid","Students","No","policy3",6,3.24324324324324
+"376","Paratyphoid","Farmers","No","policy3",37,20
+"377","Paratyphoid","Wpeasant-workers","No","policy3",2,1.08108108108108
+"378","Paratyphoid","Workers","No","policy3",17,9.18918918918919
+"379","Paratyphoid","Business services","No","policy3",6,3.24324324324324
+"380","Paratyphoid","Cadre staffs","No","policy3",3,1.62162162162162
+"381","Paratyphoid","Medical staff","No","policy3",1,0.540540540540541
+"382","Paratyphoid","Retirees","No","policy3",13,7.02702702702703
+"383","Paratyphoid","Unemployment","No","policy3",14,7.56756756756757
+"384","Paratyphoid","Others","No","policy3",7,3.78378378378378
+"385","Paratyphoid","Others","Yes","policy1",1,100
+"386","Paratyphoid","Others","Yes","policy2",1,100
+"387","Paratyphoid","Children","Yes","policy3",16,48.4848484848485
+"388","Paratyphoid","Farmers","Yes","policy3",8,24.2424242424242
+"389","Paratyphoid","Workers","Yes","policy3",2,6.06060606060606
+"390","Paratyphoid","Business services","Yes","policy3",2,6.06060606060606
+"391","Paratyphoid","Medical staff","Yes","policy3",1,3.03030303030303
+"392","Paratyphoid","Retirees","Yes","policy3",1,3.03030303030303
+"393","Paratyphoid","Unemployment","Yes","policy3",2,6.06060606060606
+"394","Paratyphoid","Others","Yes","policy3",1,3.03030303030303
+"395","Cholera","Students","No","policy3",1,11.1111111111111
+"396","Cholera","Farmers","No","policy3",3,33.3333333333333
+"397","Cholera","Workers","No","policy3",2,22.2222222222222
+"398","Cholera","Unemployment","No","policy3",2,22.2222222222222
+"399","Cholera","Others","No","policy3",1,11.1111111111111
+"400","Cholera","Workers","Yes","policy3",2,100
+"401","Dengue","Children","No","policy1",1,4
+"402","Dengue","Students","No","policy1",3,12
+"403","Dengue","Farmers","No","policy1",3,12
+"404","Dengue","Workers","No","policy1",1,4
+"405","Dengue","Business services","No","policy1",6,24
+"406","Dengue","Cadre staffs","No","policy1",4,16
+"407","Dengue","Retirees","No","policy1",1,4
+"408","Dengue","Unemployment","No","policy1",3,12
+"409","Dengue","Others","No","policy1",3,12
+"410","Dengue","Business services","No","policy2",1,50
+"411","Dengue","Unemployment","No","policy2",1,50
+"412","Dengue","Children","No","policy3",12,0.53167922020381
+"413","Dengue","Students","No","policy3",75,3.32299512627382
+"414","Dengue","Farmers","No","policy3",248,10.9880372175454
+"415","Dengue","Wpeasant-workers","No","policy3",28,1.24058484714222
+"416","Dengue","Workers","No","policy3",309,13.6907399202481
+"417","Dengue","Business services","No","policy3",420,18.6087727071334
+"418","Dengue","Cadre staffs","No","policy3",187,8.28533451484271
+"419","Dengue","Medical staff","No","policy3",20,0.886132033673017
+"420","Dengue","Teachers","No","policy3",35,1.55073105892778
+"421","Dengue","Retirees","No","policy3",412,18.2543198936642
+"422","Dengue","Unemployment","No","policy3",287,12.7159946832078
+"423","Dengue","Others","No","policy3",224,9.92467877713779
+"424","Dengue","Students","Yes","policy1",1,20
+"425","Dengue","Business services","Yes","policy1",1,20
+"426","Dengue","Cadre staffs","Yes","policy1",1,20
+"427","Dengue","Teachers","Yes","policy1",2,40
+"428","Dengue","Business services","Yes","policy3",2,66.6666666666667
+"429","Dengue","Unemployment","Yes","policy3",1,33.3333333333333
+"430","Scrub typhus","Farmers","No","policy1",1,50
+"431","Scrub typhus","Workers","No","policy1",1,50
+"432","Scrub typhus","Children","No","policy3",15,1.69683257918552
+"433","Scrub typhus","Students","No","policy3",13,1.47058823529412
+"434","Scrub typhus","Farmers","No","policy3",658,74.4343891402715
+"435","Scrub typhus","Wpeasant-workers","No","policy3",5,0.565610859728507
+"436","Scrub typhus","Workers","No","policy3",40,4.52488687782805
+"437","Scrub typhus","Business services","No","policy3",16,1.80995475113122
+"438","Scrub typhus","Cadre staffs","No","policy3",9,1.01809954751131
+"439","Scrub typhus","Medical staff","No","policy3",1,0.113122171945701
+"440","Scrub typhus","Teachers","No","policy3",5,0.565610859728507
+"441","Scrub typhus","Retirees","No","policy3",17,1.92307692307692
+"442","Scrub typhus","Unemployment","No","policy3",59,6.67420814479638
+"443","Scrub typhus","Others","No","policy3",46,5.20361990950226
+"444","Scrub typhus","Farmers","Yes","policy1",3,75
+"445","Scrub typhus","Unemployment","Yes","policy1",1,25
+"446","Scrub typhus","Students","Yes","policy2",1,50
+"447","Scrub typhus","Farmers","Yes","policy2",1,50
+"448","Scrub typhus","Children","Yes","policy3",4,1.31147540983607
+"449","Scrub typhus","Students","Yes","policy3",9,2.95081967213115
+"450","Scrub typhus","Farmers","Yes","policy3",239,78.3606557377049
+"451","Scrub typhus","Wpeasant-workers","Yes","policy3",1,0.327868852459016
+"452","Scrub typhus","Workers","Yes","policy3",8,2.62295081967213
+"453","Scrub typhus","Business services","Yes","policy3",4,1.31147540983607
+"454","Scrub typhus","Cadre staffs","Yes","policy3",5,1.63934426229508
+"455","Scrub typhus","Retirees","Yes","policy3",3,0.983606557377049
+"456","Scrub typhus","Unemployment","Yes","policy3",22,7.21311475409836
+"457","Scrub typhus","Others","Yes","policy3",10,3.27868852459016
+"458","Haemorrhagic fever","Farmers","No","policy1",69,68.3168316831683
+"459","Haemorrhagic fever","Wpeasant-workers","No","policy1",2,1.98019801980198
+"460","Haemorrhagic fever","Workers","No","policy1",9,8.91089108910891
+"461","Haemorrhagic fever","Business services","No","policy1",5,4.95049504950495
+"462","Haemorrhagic fever","Cadre staffs","No","policy1",2,1.98019801980198
+"463","Haemorrhagic fever","Retirees","No","policy1",2,1.98019801980198
+"464","Haemorrhagic fever","Unemployment","No","policy1",6,5.94059405940594
+"465","Haemorrhagic fever","Others","No","policy1",6,5.94059405940594
+"466","Haemorrhagic fever","Farmers","No","policy2",22,52.3809523809524
+"467","Haemorrhagic fever","Wpeasant-workers","No","policy2",1,2.38095238095238
+"468","Haemorrhagic fever","Workers","No","policy2",6,14.2857142857143
+"469","Haemorrhagic fever","Business services","No","policy2",2,4.76190476190476
+"470","Haemorrhagic fever","Cadre staffs","No","policy2",3,7.14285714285714
+"471","Haemorrhagic fever","Unemployment","No","policy2",4,9.52380952380952
+"472","Haemorrhagic fever","Others","No","policy2",4,9.52380952380952
+"473","Haemorrhagic fever","Students","No","policy3",7,1.30111524163569
+"474","Haemorrhagic fever","Farmers","No","policy3",362,67.2862453531598
+"475","Haemorrhagic fever","Wpeasant-workers","No","policy3",19,3.53159851301115
+"476","Haemorrhagic fever","Workers","No","policy3",48,8.92193308550186
+"477","Haemorrhagic fever","Business services","No","policy3",15,2.78810408921933
+"478","Haemorrhagic fever","Cadre staffs","No","policy3",9,1.6728624535316
+"479","Haemorrhagic fever","Medical staff","No","policy3",1,0.185873605947955
+"480","Haemorrhagic fever","Teachers","No","policy3",5,0.929368029739777
+"481","Haemorrhagic fever","Retirees","No","policy3",21,3.90334572490706
+"482","Haemorrhagic fever","Unemployment","No","policy3",36,6.69144981412639
+"483","Haemorrhagic fever","Others","No","policy3",15,2.78810408921933
+"484","Haemorrhagic fever","Farmers","Yes","policy1",1,25
+"485","Haemorrhagic fever","Workers","Yes","policy1",2,50
+"486","Haemorrhagic fever","Unemployment","Yes","policy1",1,25
+"487","Haemorrhagic fever","Students","Yes","policy2",2,22.2222222222222
+"488","Haemorrhagic fever","Farmers","Yes","policy2",3,33.3333333333333
+"489","Haemorrhagic fever","Workers","Yes","policy2",2,22.2222222222222
+"490","Haemorrhagic fever","Business services","Yes","policy2",1,11.1111111111111
+"491","Haemorrhagic fever","Unemployment","Yes","policy2",1,11.1111111111111
+"492","Haemorrhagic fever","Students","Yes","policy3",6,3.72670807453416
+"493","Haemorrhagic fever","Farmers","Yes","policy3",96,59.6273291925466
+"494","Haemorrhagic fever","Wpeasant-workers","Yes","policy3",3,1.86335403726708
+"495","Haemorrhagic fever","Workers","Yes","policy3",21,13.0434782608696
+"496","Haemorrhagic fever","Business services","Yes","policy3",3,1.86335403726708
+"497","Haemorrhagic fever","Teachers","Yes","policy3",1,0.62111801242236
+"498","Haemorrhagic fever","Retirees","Yes","policy3",8,4.96894409937888
+"499","Haemorrhagic fever","Unemployment","Yes","policy3",19,11.8012422360248
+"500","Haemorrhagic fever","Others","Yes","policy3",4,2.48447204968944
+"501","Malaria","Students","No","policy1",3,5.76923076923077
+"502","Malaria","Farmers","No","policy1",22,42.3076923076923
+"503","Malaria","Workers","No","policy1",7,13.4615384615385
+"504","Malaria","Business services","No","policy1",11,21.1538461538462
+"505","Malaria","Cadre staffs","No","policy1",1,1.92307692307692
+"506","Malaria","Unemployment","No","policy1",1,1.92307692307692
+"507","Malaria","Others","No","policy1",7,13.4615384615385
+"508","Malaria","Farmers","No","policy2",3,13.0434782608696
+"509","Malaria","Wpeasant-workers","No","policy2",3,13.0434782608696
+"510","Malaria","Workers","No","policy2",5,21.7391304347826
+"511","Malaria","Business services","No","policy2",6,26.0869565217391
+"512","Malaria","Cadre staffs","No","policy2",1,4.34782608695652
+"513","Malaria","Unemployment","No","policy2",1,4.34782608695652
+"514","Malaria","Others","No","policy2",4,17.3913043478261
+"515","Malaria","Children","No","policy3",2,0.576368876080692
+"516","Malaria","Students","No","policy3",8,2.30547550432277
+"517","Malaria","Farmers","No","policy3",76,21.9020172910663
+"518","Malaria","Wpeasant-workers","No","policy3",10,2.88184438040346
+"519","Malaria","Workers","No","policy3",57,16.4265129682997
+"520","Malaria","Business services","No","policy3",91,26.2247838616715
+"521","Malaria","Cadre staffs","No","policy3",10,2.88184438040346
+"522","Malaria","Unemployment","No","policy3",16,4.61095100864553
+"523","Malaria","Others","No","policy3",77,22.1902017291066
+"524","Malaria","Farmers","Yes","policy1",1,14.2857142857143
+"525","Malaria","Workers","Yes","policy1",1,14.2857142857143
+"526","Malaria","Business services","Yes","policy1",1,14.2857142857143
+"527","Malaria","Unemployment","Yes","policy1",3,42.8571428571429
+"528","Malaria","Others","Yes","policy1",1,14.2857142857143
+"529","Malaria","Others","Yes","policy2",2,100
+"530","Malaria","Farmers","Yes","policy3",6,26.0869565217391
+"531","Malaria","Workers","Yes","policy3",5,21.7391304347826
+"532","Malaria","Business services","Yes","policy3",8,34.7826086956522
+"533","Malaria","Others","Yes","policy3",4,17.3913043478261
+"534","Brucellosis","Farmers","No","policy1",19,61.2903225806452
+"535","Brucellosis","Workers","No","policy1",1,3.2258064516129
+"536","Brucellosis","Business services","No","policy1",3,9.67741935483871
+"537","Brucellosis","Cadre staffs","No","policy1",1,3.2258064516129
+"538","Brucellosis","Unemployment","No","policy1",4,12.9032258064516
+"539","Brucellosis","Others","No","policy1",3,9.67741935483871
+"540","Brucellosis","Farmers","No","policy2",8,50
+"541","Brucellosis","Workers","No","policy2",2,12.5
+"542","Brucellosis","Business services","No","policy2",2,12.5
+"543","Brucellosis","Others","No","policy2",4,25
+"544","Brucellosis","Children","No","policy3",3,1.57894736842105
+"545","Brucellosis","Students","No","policy3",2,1.05263157894737
+"546","Brucellosis","Farmers","No","policy3",110,57.8947368421053
+"547","Brucellosis","Wpeasant-workers","No","policy3",1,0.526315789473684
+"548","Brucellosis","Workers","No","policy3",16,8.42105263157895
+"549","Brucellosis","Business services","No","policy3",19,10
+"550","Brucellosis","Cadre staffs","No","policy3",5,2.63157894736842
+"551","Brucellosis","Teachers","No","policy3",1,0.526315789473684
+"552","Brucellosis","Retirees","No","policy3",6,3.15789473684211
+"553","Brucellosis","Unemployment","No","policy3",7,3.68421052631579
+"554","Brucellosis","Others","No","policy3",20,10.5263157894737
+"555","Brucellosis","Students","Yes","policy1",1,16.6666666666667
+"556","Brucellosis","Farmers","Yes","policy1",1,16.6666666666667
+"557","Brucellosis","Workers","Yes","policy1",2,33.3333333333333
+"558","Brucellosis","Others","Yes","policy1",2,33.3333333333333
+"559","Brucellosis","Farmers","Yes","policy2",4,57.1428571428571
+"560","Brucellosis","Others","Yes","policy2",3,42.8571428571429
+"561","Brucellosis","Children","Yes","policy3",2,2.8169014084507
+"562","Brucellosis","Students","Yes","policy3",5,7.04225352112676
+"563","Brucellosis","Farmers","Yes","policy3",38,53.5211267605634
+"564","Brucellosis","Workers","Yes","policy3",7,9.85915492957746
+"565","Brucellosis","Business services","Yes","policy3",7,9.85915492957746
+"566","Brucellosis","Teachers","Yes","policy3",1,1.40845070422535
+"567","Brucellosis","Retirees","Yes","policy3",1,1.40845070422535
+"568","Brucellosis","Unemployment","Yes","policy3",4,5.63380281690141
+"569","Brucellosis","Others","Yes","policy3",6,8.45070422535211
+"570","SFTS","Farmers","No","policy3",141,77.9005524861878
+"571","SFTS","Workers","No","policy3",4,2.20994475138122
+"572","SFTS","Business services","No","policy3",1,0.552486187845304
+"573","SFTS","Cadre staffs","No","policy3",1,0.552486187845304
+"574","SFTS","Teachers","No","policy3",1,0.552486187845304
+"575","SFTS","Retirees","No","policy3",12,6.62983425414365
+"576","SFTS","Unemployment","No","policy3",20,11.0497237569061
+"577","SFTS","Others","No","policy3",1,0.552486187845304
+"578","SFTS","Farmers","Yes","policy1",1,100
+"579","SFTS","Farmers","Yes","policy2",1,100
+"580","SFTS","Children","Yes","policy3",1,1.25
+"581","SFTS","Farmers","Yes","policy3",65,81.25
+"582","SFTS","Workers","Yes","policy3",3,3.75
+"583","SFTS","Business services","Yes","policy3",2,2.5
+"584","SFTS","Retirees","Yes","policy3",3,3.75
+"585","SFTS","Unemployment","Yes","policy3",6,7.5
+"586","Leptospirosis","Students","No","policy3",1,1.92307692307692
+"587","Leptospirosis","Farmers","No","policy3",43,82.6923076923077
+"588","Leptospirosis","Workers","No","policy3",3,5.76923076923077
+"589","Leptospirosis","Teachers","No","policy3",1,1.92307692307692
+"590","Leptospirosis","Retirees","No","policy3",1,1.92307692307692
+"591","Leptospirosis","Unemployment","No","policy3",1,1.92307692307692
+"592","Leptospirosis","Others","No","policy3",2,3.84615384615385
+"593","Leptospirosis","Farmers","Yes","policy3",48,85.7142857142857
+"594","Leptospirosis","Workers","Yes","policy3",1,1.78571428571429
+"595","Leptospirosis","Business services","Yes","policy3",1,1.78571428571429
+"596","Leptospirosis","Unemployment","Yes","policy3",3,5.35714285714286
+"597","Leptospirosis","Others","Yes","policy3",3,5.35714285714286
+"598","Rabies","Farmers","No","policy1",4,80
+"599","Rabies","Unemployment","No","policy1",1,20
+"600","Rabies","Farmers","No","policy2",2,100
+"601","Rabies","Students","No","policy3",3,15.7894736842105
+"602","Rabies","Farmers","No","policy3",11,57.8947368421053
+"603","Rabies","Workers","No","policy3",4,21.0526315789474
+"604","Rabies","Unemployment","No","policy3",1,5.26315789473684
+"605","Rabies","Wpeasant-workers","Yes","policy1",1,100
+"606","Typhus","Farmers","No","policy3",10,76.9230769230769
+"607","Typhus","Retirees","No","policy3",2,15.3846153846154
+"608","Typhus",NA,"No","policy3",1,7.69230769230769
+"609","Typhus","Students","Yes","policy3",1,9.09090909090909
+"610","Typhus","Farmers","Yes","policy3",10,90.9090909090909
+"611","Influenza","Children","No","policy1",60001,39.8450055118006
+"612","Influenza","Students","No","policy1",22959,15.246437251803
+"613","Influenza","Farmers","No","policy1",20842,13.8405960713479
+"614","Influenza","Wpeasant-workers","No","policy1",330,0.219143877916938
+"615","Influenza","Workers","No","policy1",8788,5.83586787616379
+"616","Influenza","Business services","No","policy1",6953,4.61729510047415
+"617","Influenza","Cadre staffs","No","policy1",5505,3.65571832706892
+"618","Influenza","Medical staff","No","policy1",2348,1.55924189499688
+"619","Influenza","Teachers","No","policy1",1427,0.947631253901425
+"620","Influenza","Retirees","No","policy1",6288,4.17568698285365
+"621","Influenza","Unemployment","No","policy1",11521,7.65077762873043
+"622","Influenza","Others","No","policy1",3624,2.40659822294237
+"623","Influenza","Children","No","policy2",22451,38.5868724541533
+"624","Influenza","Students","No","policy2",18247,31.3613942216799
+"625","Influenza","Farmers","No","policy2",5013,8.61591873915061
+"626","Influenza","Wpeasant-workers","No","policy2",99,0.170152793771377
+"627","Influenza","Workers","No","policy2",2395,4.11632263719643
+"628","Influenza","Business services","No","policy2",2029,3.48727291476892
+"629","Influenza","Cadre staffs","No","policy2",1481,2.54541704621625
+"630","Influenza","Medical staff","No","policy2",564,0.969355309970266
+"631","Influenza","Teachers","No","policy2",546,0.938418438375471
+"632","Influenza","Retirees","No","policy2",1182,2.03152123472492
+"633","Influenza","Unemployment","No","policy2",3231,5.55316845126583
+"634","Influenza","Others","No","policy2",945,1.62418575872678
+"635","Influenza","Children","No","policy3",31336,33.2728102867943
+"636","Influenza","Students","No","policy3",26238,27.8597139489695
+"637","Influenza","Farmers","No","policy3",9709,10.3090922604827
+"638","Influenza","Wpeasant-workers","No","policy3",268,0.284564499516877
+"639","Influenza","Workers","No","policy3",4794,5.09030675628325
+"640","Influenza","Business services","No","policy3",4582,4.86520349547139
+"641","Influenza","Cadre staffs","No","policy3",3707,3.93612164070547
+"642","Influenza","Medical staff","No","policy3",1234,1.31027086717846
+"643","Influenza","Teachers","No","policy3",963,1.02252094415953
+"644","Influenza","Retirees","No","policy3",2280,2.42092186156149
+"645","Influenza","Unemployment","No","policy3",6906,7.33284490172968
+"646","Influenza","Others","No","policy3",2162,2.29562853714735
+"647","Influenza","Children","Yes","policy1",10380,36.4696788700724
+"648","Influenza","Students","Yes","policy1",3991,14.0222050453236
+"649","Influenza","Farmers","Yes","policy1",4338,15.2413744641979
+"650","Influenza","Wpeasant-workers","Yes","policy1",78,0.274049610006324
+"651","Influenza","Workers","Yes","policy1",2254,7.91933103787506
+"652","Influenza","Business services","Yes","policy1",1673,5.8780127889818
+"653","Influenza","Cadre staffs","Yes","policy1",1241,4.36019956433139
+"654","Influenza","Medical staff","Yes","policy1",470,1.65132457311503
+"655","Influenza","Teachers","Yes","policy1",201,0.706204764247066
+"656","Influenza","Retirees","Yes","policy1",686,2.41023118544024
+"657","Influenza","Unemployment","Yes","policy1",2331,8.18986719134284
+"658","Influenza","Others","Yes","policy1",819,2.8775209050664
+"659","Influenza","Children","Yes","policy2",252,32.0610687022901
+"660","Influenza","Students","Yes","policy2",90,11.4503816793893
+"661","Influenza","Farmers","Yes","policy2",240,30.5343511450382
+"662","Influenza","Workers","Yes","policy2",56,7.12468193384224
+"663","Influenza","Business services","Yes","policy2",23,2.92620865139949
+"664","Influenza","Cadre staffs","Yes","policy2",5,0.636132315521628
+"665","Influenza","Medical staff","Yes","policy2",16,2.03562340966921
+"666","Influenza","Teachers","Yes","policy2",4,0.508905852417303
+"667","Influenza","Retirees","Yes","policy2",24,3.05343511450382
+"668","Influenza","Unemployment","Yes","policy2",48,6.10687022900763
+"669","Influenza","Others","Yes","policy2",28,3.56234096692112
+"670","Influenza","Children","Yes","policy3",2135,43.1923932834311
+"671","Influenza","Students","Yes","policy3",970,19.6237102973902
+"672","Influenza","Farmers","Yes","policy3",865,17.4994942342707
+"673","Influenza","Wpeasant-workers","Yes","policy3",6,0.121383775035404
+"674","Influenza","Workers","Yes","policy3",163,3.29759255512846
+"675","Influenza","Business services","Yes","policy3",113,2.2860610965001
+"676","Influenza","Cadre staffs","Yes","policy3",103,2.08375480477443
+"677","Influenza","Medical staff","Yes","policy3",104,2.103985433947
+"678","Influenza","Teachers","Yes","policy3",19,0.384381954278778
+"679","Influenza","Retirees","Yes","policy3",123,2.48836738822577
+"680","Influenza","Unemployment","Yes","policy3",239,4.83512037224358
+"681","Influenza","Others","Yes","policy3",103,2.08375480477443
+"682","Scarlet fever","Children","No","policy1",228,67.4556213017752
+"683","Scarlet fever","Students","No","policy1",109,32.2485207100592
+"684","Scarlet fever","Farmers","No","policy1",1,0.29585798816568
+"685","Scarlet fever","Children","No","policy2",165,61.3382899628253
+"686","Scarlet fever","Students","No","policy2",102,37.9182156133829
+"687","Scarlet fever","Workers","No","policy2",1,0.371747211895911
+"688","Scarlet fever","Unemployment","No","policy2",1,0.371747211895911
+"689","Scarlet fever","Children","No","policy3",2774,65.1938895417156
+"690","Scarlet fever","Students","No","policy3",1455,34.1950646298472
+"691","Scarlet fever","Farmers","No","policy3",4,0.0940070505287897
+"692","Scarlet fever","Workers","No","policy3",2,0.0470035252643948
+"693","Scarlet fever","Business services","No","policy3",5,0.117508813160987
+"694","Scarlet fever","Cadre staffs","No","policy3",2,0.0470035252643948
+"695","Scarlet fever","Medical staff","No","policy3",2,0.0470035252643948
+"696","Scarlet fever","Teachers","No","policy3",4,0.0940070505287897
+"697","Scarlet fever","Retirees","No","policy3",1,0.0235017626321974
+"698","Scarlet fever","Unemployment","No","policy3",2,0.0470035252643948
+"699","Scarlet fever","Others","No","policy3",4,0.0940070505287897
+"700","Scarlet fever","Children","Yes","policy1",25,73.5294117647059
+"701","Scarlet fever","Students","Yes","policy1",7,20.5882352941176
+"702","Scarlet fever","Farmers","Yes","policy1",1,2.94117647058824
+"703","Scarlet fever","Business services","Yes","policy1",1,2.94117647058824
+"704","Scarlet fever","Children","Yes","policy2",18,81.8181818181818
+"705","Scarlet fever","Students","Yes","policy2",3,13.6363636363636
+"706","Scarlet fever","Others","Yes","policy2",1,4.54545454545455
+"707","Scarlet fever","Children","Yes","policy3",161,60.5263157894737
+"708","Scarlet fever","Students","Yes","policy3",100,37.593984962406
+"709","Scarlet fever","Farmers","Yes","policy3",1,0.37593984962406
+"710","Scarlet fever","Wpeasant-workers","Yes","policy3",1,0.37593984962406
+"711","Scarlet fever","Workers","Yes","policy3",1,0.37593984962406
+"712","Scarlet fever","Cadre staffs","Yes","policy3",1,0.37593984962406
+"713","Scarlet fever","Medical staff","Yes","policy3",1,0.37593984962406
